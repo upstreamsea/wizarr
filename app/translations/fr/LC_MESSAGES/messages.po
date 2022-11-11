@@ -525,11 +525,11 @@ msgstr ""
 #~ "modifier la qualité de lecture, tout "
 #~ "comme vous le pouvez sur Youtube !"
 
-#~ msgid "You've been invited to join the %(name)s server!"
+#~ msgid "You've been invited to join Log's Plex Server!"
 #~ msgstr "Vous avez été invité à rejoindre le serveur %(name)s !"
 
 #~ msgid ""
-#~ "To join our Plex server, create a"
+#~ "To join my Plex server, create a"
 #~ " Plex account! Once you're done, come"
 #~ " back here!"
 #~ msgstr ""
@@ -540,6 +540,6 @@ msgstr ""
 #~ msgid "Create Plex Account"
 #~ msgstr "Créer un compte Plex"
 
-#~ msgid "I have a Plex Account"
+#~ msgid "I already have a Plex Account"
 #~ msgstr "J'ai un compte Plex"
 
